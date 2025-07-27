@@ -17,5 +17,4 @@ Internetdagi oʻzbek segmentini tarjima qilishga hissa qoʻshayotgan loyihalar r
 | Python documentation | Python dasturlash tili hujjatlari. | [explore.transifex.com](https://explore.transifex.com/python-doc/) |
 | Scratch | Bolalar uchun dasturlashni o‘rgatadigan vizual dasturlash muhiti. | [explore.transifex.com](https://explore.transifex.com/llk/scratch-website/) |
 | Telegram | 	Mashhur messenjer. | [translations.telegram.org](https://translations.telegram.org) |
-| Ubuntu | Eng mashhur Linux distributivlaridan biri.  | [translations.launchpad.net](https://translations.launchpad.net/ubuntu/plucky/+lang/uz) |
 | WordPress | Vebsayt va bloglar yaratish uchun CMS (kontent boshqaruv tizimi). | [translate.wordpress.org](https://translate.wordpress.org/locale/uz/) |
