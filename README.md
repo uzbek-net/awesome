@@ -14,6 +14,7 @@ Internetdagi oʻzbek segmentini tarjima qilishga hissa qoʻshayotgan loyihalar r
 | MediaWiki | Vikipediya va boshqa vikilar asosidagi dasturiy platforma. | [translatewiki.net](https://translatewiki.net/w/i.php?title=Special:Translate&group=mediawiki&language=uz) |
 | Minecraft | Butun dunyo bo‘yicha mashhur voksel oʻyin. | [crowdin.com](https://crowdin.com/project/minecraft/uz) |
 | Minecraft Launcher | Minecraft o‘yinini ishga tushirish uchun dastur. | [crowdin.com](https://crowdin.com/project/minecraft-launcher) |
+| Minecraft Prism Launcher | Minecraft o‘yinini ishga tushirish uchun dastur. | [weblate.org](https://hosted.weblate.org/projects/prismlauncher/launcher/) |
 | Python documentation | Python dasturlash tili hujjatlari. | [explore.transifex.com](https://explore.transifex.com/python-doc/) |
 | Scratch | Bolalar uchun dasturlashni o‘rgatadigan vizual dasturlash muhiti. | [explore.transifex.com](https://explore.transifex.com/llk/scratch-website/) |
 | Telegram | 	Mashhur messenjer. | [translations.telegram.org](https://translations.telegram.org) |
